@@ -1,7 +1,6 @@
 # OOP-Encapsulation
-# Encapsulation Example in C++
 
-This repository contains a simple C++ program that demonstrates the concept of Encapsulation, a fundamental principle of Object-Oriented Programming (OOP).
+## Source: https://www.youtube.com/watch?v=wN0x9eZLix4&list=WL&index=20&t=14s
 
 ## Description
 
